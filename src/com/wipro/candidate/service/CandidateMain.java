@@ -205,6 +205,7 @@ public class CandidateMain {
                 case 5:
                     running = false;
                     System.out.println("\nThank you for using Candidate Management System!");
+                    System.out.println("Visit Again");
                     break;
                     
                 default:
